@@ -1,9 +1,9 @@
 <?php
 
-$servername = "localhost";
-$username = "root";
-$password = "";
-$db = "useragents";
+$servername = "ec2-54-145-185-178.compute-1.amazonaws.com";
+$username = "obqixuukmjcfig";
+$password = "e20c255d4f077909b5e6afa7b0c157ee7f01c6f20be70f9e1b2f73745542a514";
+$db = "dig4l9mv75c3q";
 // Create connection
 $conn = new mysqli($servername, $username, $password, $db);
 // Check connection
