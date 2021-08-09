@@ -3,7 +3,7 @@
 
 <head>
     <?php
-    require "./connectionDB.php";
+//     require "./connectionDB.php";
     require "./agentstrings.php";
     require "./arrays.php";
     require "./extract_useragents_from_browser.php";
